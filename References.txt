@@ -3,3 +3,8 @@ https://www.w3schools.com/css/css_rwd_viewport.asp
 https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do
 https://www.lifewire.com/using-multiple-classes-on-single-element-3466930
 https://stackoverflow.com/questions/11918491/using-two-css-classes-on-one-element
+
+styles.css
+https://www.w3schools.com/cssref/css3_pr_overflow-x.asp
+https://www.w3schools.com/cssref/css3_pr_background-size.asp
+https://www.w3schools.com/cssref/pr_background-position.asp
