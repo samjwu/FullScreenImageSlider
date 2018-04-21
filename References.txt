@@ -1,0 +1,3 @@
+index.html
+https://www.w3schools.com/css/css_rwd_viewport.asp
+https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do
