@@ -34,3 +34,16 @@ body, .wrapper, #sliderimages, .content {
 .image6 {
     background-image: url("https://img00.deviantart.net/ac49/i/2017/239/9/0/photorealistic_earth_by_sjwu-dbljjau.jpg")
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
+
+.content span {
+    color: #fff;
+    font-size: 5rem;
+}

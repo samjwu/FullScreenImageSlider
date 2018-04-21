@@ -5,6 +5,11 @@ https://www.lifewire.com/using-multiple-classes-on-single-element-3466930
 https://stackoverflow.com/questions/11918491/using-two-css-classes-on-one-element
 
 styles.css
+https://www.w3schools.com/cssref/css_units.asp
 https://www.w3schools.com/cssref/css3_pr_overflow-x.asp
 https://www.w3schools.com/cssref/css3_pr_background-size.asp
 https://www.w3schools.com/cssref/pr_background-position.asp
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction
+https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+https://stackoverflow.com/questions/27539262/whats-the-difference-between-align-content-and-align-items
