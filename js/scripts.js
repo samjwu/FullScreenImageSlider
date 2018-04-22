@@ -15,6 +15,32 @@ function initslider() {
     sliders[0].style.display = "block";
 }
 
+//show new image
+function navimage() {
+    clearallimgs();
+    sliders[currslideindex].style.display = "block";
+}
+
+navleft.addEventListener("click", function() {
+    if(currslideindex == 0) {
+        currslideindex = sliders.length - 1;
+    }
+    else {
+        currslideindex--;
+    }
+    navimage();
+});
+
+navright.addEventListener("click", function() {
+    if(currslideindex == sliders.length - 1) {
+        currslideindex = 0;
+    }
+    else {
+        currslideindex++;
+    }
+    navimage();
+});
+
 
 /*Run functions*/
 initslider();
