@@ -13,3 +13,5 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction
 https://www.w3schools.com/cssref/css3_pr_justify-content.asp
 https://stackoverflow.com/questions/27539262/whats-the-difference-between-align-content-and-align-items
+https://www.w3schools.com/cssref/pr_border-color.asp
+https://www.w3schools.com/howto/howto_css_arrows.asp
